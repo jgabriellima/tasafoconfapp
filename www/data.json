@@ -1,0 +1,1098 @@
+{
+  "sessions": [
+
+    {
+      "id":"db61d743e1eee7c7fee4485fc230e521",
+      "title": "Credenciamento e café da manhã",
+      "start_time": "0800",
+      "end_time": "0900",
+      "type": "break"
+    },
+    {
+      "id":"213a5adf9eb85c46ed3052416f0af703",
+      "title": "Hacking the World",
+      "description":"Essa palestra fará um passeio sociológico, organizacional e tecnológico para mostrar que hacking não é algo restrito apenas a sistemas e redes. Hacking pode ser uma atitude que qualquer pessoa pode adotar perante a vida. Nessa palestra iremos contar histórias bem pai d’éguas sobre como adotar a atitude de Thinking Hacker para ajudar organizações, times e indivíduos a mudarem seus mindsets. Claro que esse tipo de abordagem acontece através de uma compreensão sistêmica do processo de construção da inteligência colaborativa presente em qualquer tipo de sistema social (empresas, times, comunidades etc). Por essa razão, prepare-se para receber um verdadeiro ataque DDoS com insights sobre comportamento humano e sobre a dinâmica psicossocial vigente na empresas.",
+      "start_time": "0900",
+      "end_time": "0950",
+      "type": "keynote",
+      "speakers":[
+        {
+          "id": "6761d73645fd14b9deeb9468f3de6ec9",
+          "name": "Manoel Pimentel",
+          "profile_url": "http://conf2015.tasafo.org/img/people/manoel-pimentel.png",
+          "job": "Agile Coach / Chairman, Adaptworks / Agile Alliance Brazil",
+          "work_at": "AdaptWorks",
+          "bio": "É coach, blogueiro, palestrante, inovador, rule-breaker e um organocientista viciado em grandes desafios. Trabalha há mais de 18 anos na área de TI, onde possui uma profunda experiência em ajudar, como coach ou trainner, a transição/experimentação Ágil (Scrum, XP, FDD, Lean) em grandes e complexas organizações (Como Stefanini, Sicoob, Bancoob, Oi, GVT, Petrobras, Ita, Localiza).\nÉ um dos pioneiros no movimento Ágil no Brasil. Ele também é o fundador da Revisa e Blog Visão Ágil e do blog stoosians.org (movimento Stoos). Já escreveu para portais internacionais como InfoQ, AgileJournal, ScrumAlliance, AgileAlliance e revistas como SQL Magazine, JavaMagazine. Mundo J e outras. Foi o revisor da versão oficial do Manifesto Ágil em português, escreveu o prefácio do livro Agile Project Management e do livro Scrum - Como gerenciar projetos com sucesso. Também ajudou na tradução do livro Kanban em 10 passos(InfoQ). Foi chairman do AgileBrazil 2013, que é a principal conferência brasileira sobre métodos ágeis e que nessa edição atingiu a marca história de 1000 participantes. Já organizou e co-organizou eventos como TDC (The Developers Conference) e Maré de Agilidade.\nÉ um dos poucos licensed trainer de Management 3.0 no Brasil, mas além de suas certificações, Manoel é um catailisador e socializador de ideas como Managing Dojo, TAE (Teoria da Alavancagem Estrelar), Manifesto for Meta-Agile, Coaching para Metalhoria, MVI (Minimum Viable Improvement), Team Fusing e AgileMMA (Agile Mixed Methodologies Adoption) e Organoplasticidade.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/manoelp/pt",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/manoelp",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+
+    },
+    {
+      "title": "Tudo aquilo que você precisa saber sobre Vagrant e Puppet",
+      "description": "Apresentação de conceitos de gerência de configuração de hardware e software com ferramentas modernas de DevOps. Palestra repleta de dicas e macetes do dia-a-dia com Vagrant e Puppet, com exemplos de casos úteis para quem quer se iniciar ou se aprofundar na ára.",
+      "start_time": "0950",
+      "end_time": "1020",
+      "type": "devops",
+      "speakers":[
+        {
+          "id": "1afe3b2bd302d012ec38c19760652ec4",
+          "name": "Marcelo Andrade",
+          "profile_url": "http://conf2015.tasafo.org/img/people/marcelo-andrade.jpg",
+          "work_at": "Tá Safo!",
+          "job": "Go Horse Certified Specialist",
+          "bio": "Sinto paixão por aprender, descobrir coisas novas e compartilhar experiências com outras pessoas de forma enriquecedora. Gosto de colaborar com outras pessoas e me sentir útil. Me desafia o minimalismo e a tentativa de evitar retrabalhos e desperdícios.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/mfandrade",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/mfandrade",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/mfandrade",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "MEAN - Full Stack JavaScript",
+      "description": "MEAN é um acrônimo de quatro tecnologias do ecossitema JavaScript: MongoDB, Express, AngularJS e NodeJS. Essas tecnologias juntas permitem a criação de aplicações utilizando a linguagem JavaScript de ponta a ponta. Nesta palestra será apresentado como podemos utilizá-las s para construir Single Page Applications (SPA) com Javascript no Back-end e banco de dados NoSQL",
+      "start_time": "1020",
+      "end_time": "1050",
+      "type": "devops",
+      "speakers":[
+        {
+          "id": "49c6c0c568a4e4cd08aa709dec056f63",
+          "name": "Kaio Valente",
+          "profile_url": "http://conf2015.tasafo.org/img/people/kaio-valente.jpg",
+          "job": "Desenvolvedor Sênior, DocYouSign",
+          "work_at": "DocYouSign",
+          "bio": "Desenvolve software há mais de 7 anos. Já trabalhou em bancos, tribunal, já foi concursado e largou o osso. Atualmente trabalha como Desenvolvedor Sênior na DocYouSign em São Paulo. Javeiro, entusiasta de JavaScript e Front-End. Acredita que JS é o futuro. Largou a guitarra e agora faz cerveja em casa.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/kaiovalente",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://github.com/kaiovalente",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ESB na prática: Como integrar sistemas corporativos de forma eficaz",
+      "description": "A integração de sistemas corporativos, tornou-se imprescindível, por isso, o uso de uma arquitetura que permita a comunicação com várias aplicações é fundamental. O Enterprise Service Bus (ESB) é uma arquitetura de software que irá viabilizar essa comunicação entre diferentes aplicativos, roteando as mensagens e enviando-as para seus destinos apropriados.",
+      "start_time": "1050",
+      "end_time": "1120",
+      "type": "devops",
+      "speakers":[
+        {
+          "id": "49c6c0c568a4e4cd08aa709dec056f63",
+          "name": "Gustavo Costa",
+          "profile_url": "http://conf2015.tasafo.org/img/people/gustavo-costa.png",
+          "job": "Arquiteto de Sistemas, MPCM-PA e Pródiga Sistemas",
+          "work_at": "MPCMA-PA E PRÓDIGA SISTEMAS",
+          "bio": "Atualmente, trabalho no Ministério Público de Contas dos Municípios do Estado do Pará e na empresa Pródiga Sistemas. Um dos meus pontos fortes é JAVA, com o qual trabalho há 8 anos.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/gustavobcosta",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/gugabcosta",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/gugabcosta",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Desenvolvendo produtos e projetos de forma enxuta e eficiente",
+      "description": "Construir, Medir, Aprender', como diz Steve Blank, é muito mais elaborado do que colocar software em produção para ver se funciona. O Lean Startup é interessante, mas para desenvolvedores de software acaba se traduzindo em uma importante pergunta: 'Tá, mas o que construir?'. Não é fácil lidar com essa disparidade entre o significado de Produto Mínimo Viável para o negócio e a iniciação de projetos de software que tentam criar produtos de forma enxuta. Depois de experimentar muitos estilos de iniciação do projeto de software, documentamos uma receita que vem sendo aplicada no cotidiano e funcionando muito bem. A esse conjunto de práticas e técnicas demos o nome de Direto ao Ponto. Venha conversar sobre MVP e compartilhar de uma receita efetiva para iniciação do projetos de software que vai entregar o produto de forma enxuta.",
+      "start_time": "1120",
+      "end_time": "1250",
+      "type": "keynote",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Paulo Caroli",
+          "profile_url": "http://conf2015.tasafo.org/img/people/paulo-caroli.jpg",
+          "job": "Agile Coach, Thoughtworks",
+          "work_at": "Thoughtworks",
+          "bio": "Paulo Caroli é M.S. em Engenharia de Software pela PUC-Rio. Cofundador e Agile Coach da Thoughtworks Brazil. Possui duas décadas de experiência em desenvolvimento de software com passagem em várias corporações no Brasil, India e EUA. Desde 2000 tem focado sua experiência em processos e práticas de Gestão e Desenvolvimento Ágil usando XP, Scrum, Kanban e outros. É sempre palestrante convidado em vários eventos grandes no Brasil e no exterior e também autor de um sem número de artigos. Foi o idealizador, um dos criadores e palestrante desde 2009 do Agile Brazil, um dos maiores eventos de desenvolvimento de software da América Latina.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/paulocaroli",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/paulocaroli",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Almoço",
+      "start_time": "1210",
+      "end_time": "1320",
+      "type": "break"
+    },
+    {
+      "title": "Repensando as Melhores Práticas",
+      "description": "As tecnologias mudam e as idéias também mudam. Novas ferramentas e paradigmas surgem para questionar a *melhor* maneira de escrever código para browsers e servidores. O melhor não é uma constante.",
+      "start_time": "1320",
+      "end_time": "1410",
+      "type": "invited_speaker",
+      "speakers":[
+        {
+          "id": "7795d605d712feb6c28dbf730b97a547",
+          "name": "Carlos Souza",
+          "profile_url": "http://conf2015.tasafo.org/img/people/caike-souza.jpg",
+          "job": "Instructor, Code School",
+          "work_at": "CodeSchool",
+          "bio": "É desenvolvedor web e instrutor do Code School. Formado em Ciência da Computação pelo CESUPA, começou em Belém sua carreira na área de tecnologia. Já trabalhou com inúmeras tecnologias em diversas empresas no Brasil e no mundo, e acredita que não existe forma errada de tomar Açaí.",
+          "social_networks": [
+            {
+              "url": "https://github.com/caike",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/caike",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Atacando Aplicações Web",
+      "description": "Para garantir a segurança de uma aplicação, o desenvolvedor deve primeiramente saber como as vulnerabilidades são exploradas e os ataques são executados. A maioria dos materiais educacionais de segurança utilizam vulnerabilidades triviais ou cenários rídiculos. Para corrigir isso, vamos demostrar alguns cenários reais de vulnerabilidade e como explorá-los.",
+      "start_time": "1410",
+      "end_time": "1440",
+      "type": "devops",
+      "speakers":[
+        {
+          "id": "f6300e3aba48f45b947a0b904d10ed90",
+          "name": "Thomaz Leite",
+          "profile_url": "http://conf2015.tasafo.org/img/people/thomaz-leite.png",
+          "work_at": "Barbits",
+          "job": "Desenvolvedor, Barbits",
+          "bio": "Sou formado em ciência da computação pela Lindenwood University e desenvolvedor de aplicações de Web há 5 anos. Hoje sou faz-tudo na Barbits, empresa que fundei em 2014. Pela Barbits, ajudo empresas que não tem um time de desenvolvedores in-house a executar projetos de software.",
+          "social_networks": [
+            {
+              "url": "https://github.com/thmzlt",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oracle Nashorn, a nova engine Java Script para JVM",
+      "description": "Com o lançamento do Java 8 ano passado, uma das novidades da versão foi a inclusão de uma engine Java Script para JVM denominada de Oracle Nashorn. Trata-se de uma nova geração de engine Java Script totalmente reformulada, baseada na JSR 292 e com suporte a invocação dinâmica através de linhas de comando ou embarcado em aplicações Java. Quando e porque usar o Nashorn? Quais as vantagens e desvantagens? É o que vamos compartilhar nessa apresentação.",
+      "start_time": "1440",
+      "end_time": "1510",
+      "type": "devops",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Raimundo Botelho",
+          "profile_url": "http://conf2015.tasafo.org/img/people/raimundo-botelho.jpg",
+          "job": "Arquiteto de Software e Educador Corporativo, BBTS",
+          "work_at": "BBTS",
+          "bio": "Sou bacharel em Ciência da Computação pelo Centro Universitário do Pará (CESUPA) e programador certificado Java pela Sun Microsystems desde 2008. Moro em Belém, e atualmente trabalho como Arquiteto de Software e Educador Corporativo na empresa BBTS. Sou especialista em análise, projeto e desenvolvimento de Sistemas Java.",
+          "social_networks": [
+            {
+              "url": "http://br.linkedin.com/in/raibotelho",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/raibotelho",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Testes de Integração com foco em APIs",
+      "description": "Com o lançamento do Java 8 ano passado, uma das novidades da versão foi a inclusão de uma engine Java Script para JVM denominada de Oracle Nashorn. Trata-se de uma nova geração de engine Java Script totalmente reformulada, baseada na JSR 292 e com suporte a invocação dinâmica através de linhas de comando ou embarcado em aplicações Java. Quando e porque usar o Nashorn? Quais as vantagens e desvantagens? É o que vamos compartilhar nessa apresentação.",
+      "start_time": "1510",
+      "end_time": "1540",
+      "type": "devops",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Marcelo Toledo",
+          "profile_url": "http://conf2015.tasafo.org/img/people/marcelo-toledo.jpg",
+          "job": "Especialista em Qualidade de Software, Locaweb",
+          "work_at": "Locaweb",
+          "bio": "QA nato, foco em qualidade, automação e melhoria continua de processos em Agile Testing. Formado em Sistemas de Informação pela Impacta, trabalha com qualidade desde 2004 passando por variados projetos. Hoje é QA na Locaweb, onde busca o crescimento profissional e principalmente o crescimento do time de QA.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/profile/view?id=AAMAAACf17sBQcmkNX1MnZkLYZQi06cCe8JKW18",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://github.com/marcelotoledo5000",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"db61d743e1eee7c7fee4485fc230e521",
+      "title": "Coffee Break",
+      "start_time": "1540",
+      "end_time": "1610",
+      "type": "break"
+    },
+    {
+      "title": "WSO2: Promovendo Negócios Conectados",
+      "description": "No mundo de hoje, as empresas devem repensar suas abordagens digitais, com esta apresentação vamos mostrar poucos slides, porém muita prática em como esta revolução pode ser construída de forma eficaz em todas as empresas. A WSO2 comemora este ano 10 anos de existência e mais de 20 produtos para ajudar as empresas e profissionais a alcançarem estes objetivos que podem gerar os diferenciais de alta qualidade e performance para construir uma realidade 100% conectada.",
+      "start_time": "1610",
+      "end_time": "1700",
+      "type": "invited_speaker",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Edgar Silva",
+          "profile_url": "http://conf2015.tasafo.org/img/people/edgar-silva.jpg",
+          "job": "Vice-Presidente para a América Latina, WSO2",
+          "work_at": "WSO2",
+          "bio": "Edgar Silva é Vice-Presidente e Country Manager para o Brasil na WSO2. Membro do time executivo estabelecendo a subsidiária, time e presença da WSO2 no Brasil e América Latina. Atuando no mercado desde 1996, antes da WSO2 Edgar foi o Head da MuleSoft no Brasil, Diretor de Desenvolvimento de Negócios Middleware na Oracle , Gerente do time de Pré-vendas e Arquitetos de Soluções da Red Hat no Brasil, atuou como consultor para Sun Microsystems, foi Systems Engineer na Borland Latin America e teve suas aventuras empreendedoras. Divide seu tempo entre as pontes aéreas, aproveitando para pesquisar e ajudar a criar um mundo mais conectado e simples para as pessoas.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/jedgarsilva/pt",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/jedgarsilva",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Refatoração com Métricas",
+      "description": "A palestra tem por objetivo apresentar as principais métricas de código orientado a objetos como suporte à tarefa de identificação de problemas de projeto de software, em especial os 'maus cheiros' de código que evidenciam melhorias com refatoração de código.",
+      "start_time": "1710",
+      "end_time": "1740",
+      "type": "devops",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Cláudio Martins",
+          "profile_url": "http://conf2015.tasafo.org/img/people/claudio-martins.jpg",
+          "job": "Professor e Analista de Sistemas, IFPA e CINBESA",
+          "work_at": "IFPA e CINBESA",
+          "bio": "Atuo na área de Engenharia de Software e Educação, com ênfase em gerência de projetos e desenvolvimento de aplicações. Trabalho desde 1987 na área de desenvolvimento de software, com experiência em linguagens de programação 'legadas' (Cobol, Clipper, Natural, etc), bem como linguagens em paradigmas orientado a objetos (Java, C++). Fui diretor na área de sistemas de software no governo do Pará (PRODEPA, 2007-2010), atualmente analista de sistemas na CINBESA (Prefeitura de Belém) desde 1991. Como professor, desde 1994 ministro aulas no IFPA (Instituto de Educação, Ciência e Tecnologia do Pará), em disciplinas relacionadas à Engenharia de Software e Desenvolvimento de Sistemas. Também ministrei aulas na Universidade da Amazônia (UNAMA), de 2004 a 2010, além de ministrar aulas em diversos cursos de pós-graduação (especialização) em instituições como Unama, UFPA e Faci-Devry. Publico artigos desde 2012 na revista Java Magazine (DevMedia).",
+          "social_networks": [
+            {
+              "url": "http://www.linkedin.com/in/claudiomartins2010",
+              "type": "linkedin"
+            },
+            {
+              "url": "http://twitter.com/_ClaudioMartins",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Entregando software à moda da casa com DevOps Tools",
+      "description": "Ainda existem empresas publicando software em produção enviando arquivos via FTP e 'controlando' a versão de seu código-fonte através de cópias compactadas armazenadas por ordem cronológica. Muitos profissionais realmente não se incomodam em fazer a mesma coisa há anos. É preciso ir além da dedicação e prestatividade, em busca da produtividade. Pretendo demonstrar implementações de técnicas e ferramentas como: controle distribuído de versões, testes automatizados, Integração Contínua, Implantação Contínua e o ápice do DevOps que é a Entrega Contínua de software.",
+      "start_time": "1740",
+      "end_time": "1810",
+      "type": "devops",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Luiz Sanches",
+          "profile_url": "http://conf2015.tasafo.org/img/people/luiz-sanches.png",
+          "job": "Consultor em desenvolvimento e operações de software, Nômade Tecnologia / Pródiga Sistemas",
+          "work_at": "Nômade Tecnologia / Pródiga Sistemas",
+          "bio": "É graduado em Sistemas de Informação pelo IESAM e Pós graduado em Gestão Ágil de Projetos pelo CESAR.EDU. Membro das comunidades Tá safo! e Agilidade@Recife. Engenheiro de Software na Pródiga Sistemas. Consultor em desenvolvimento e operações de software pela Nômade Tecnologia. Professor de graduação e especialização na Estácio|IESAM e no CESUPA.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/luizgrsanches",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/luizsanxes",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/luizsanches",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Qual é a sua desculpa?",
+      "description": "Desculpas não faltam nas empresas e ambientes onde softwares são desenvolvidos: \"A empresa não deixa eu fazer testes\", \"o vendedor vendeu mais do que conseguimos entregar\", \"tudo é feito na correria\", \"a empresa não dá treinamento para os devs\", \"não temos processo\", \"o usuário é burro\", \"o cliente não sabe prioriza\", etc. Nessa conversa, vamos investigar o que está por trás dessas expressões e principalmente o que podemos fazer proativamente para virar a mesa e remover o desperdício e o sofrimento do desenvolvimento de software.",
+      "start_time": "1810",
+      "end_time": "1900",
+      "type": "invited_speaker",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Henrique Bastos",
+          "profile_url": "http://conf2015.tasafo.org/img/people/henrique-bastos.png",
+          "job": "CTO,Dekode",
+          "work_at": "Dekode",
+          "bio": "É apaixonado por desenvolvimento de software, inquieto e empreendedor. Adora aplicar tecnologias para iniciativas em rede que promovam autonomia de pessoas comuns. Está constantemente presente nas comunidades de software organizando eventos e encontros, ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software, no Brasil e no exterior.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/henriquebastos/pt",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/henriquebastos",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/henriquebastos",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Android Marshmallow na prática",
+      "description": "Nesta apresentação irei explicar as principais funcionalidades da versão mais nova do Android que foi lançada durante o Google I/O 2015 e como implementá-las facilmente em um smartphone ou tablet.",
+      "start_time": "0950",
+      "end_time": "1020",
+      "type": "mobile_game",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Ramon Rabello",
+          "profile_url": "http://conf2015.tasafo.org/img/people/ramon-rabello.jpg",
+          "job": "Analista Especialista, Líder de Inovação, Educador Corporativo Mobile, Instrutor Android, BBTS",
+          "work_at": "BBTS",
+          "bio": "Membro da Comunidade Tá Safo!, entusiasta de agilidade e, atualmente, analista especialista Mobile na BBTS. Desenvolvedor e evangelista Android há 7 anos, criou o 'Android na Rede', uma alternativa de divulgar o uso da plataforma na região e no resto do Brasil, por meio de artigos, workshops e treinamentos.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/ramonrabello",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/ramonrabello",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/ramonrabello",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Criando aplicações mobile híbridas com Ionic Framework",
+      "description": "Esta apresentação dará uma visão prática de como utilizar o Ionic framework na construção de aplicativos móveis, comum bom desempenho, utilizando tecnologias como AngularJS, Cordova e diversos recursos do HTML5.",
+      "start_time": "0950",
+      "end_time": "1020",
+      "type": "mobile_game",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "João Gabriel",
+          "profile_url": "http://conf2015.tasafo.org/img/people/joao-gabriel.jpg",
+          "job": "Analista de Sistemas | Doutorando em Computação Aplicada, SEFA-PA/FADESP | PPGEE-UFPa",
+          "work_at": "SEFA-PA/FADESP | PPGEE-UFPa",
+          "bio": "Sou mestre em computação aplicada pela Universidade Federal do Pará, pesquisador nas áreas de aprendizagem de máquina e mineração de dados em big data. Atualmente sou Analista de Sistemas na SEFA/FADESP.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/joaogabriellima",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/jgabriel_lima",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/jgabriellima",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Desenvolvimento de Jogos Mobile com Monogame",
+      "description": "Demonstrar o fluxo do desenvolvimento e técnicas de implementação de jogos para as plataformas Mobile Android, IOS e Windows Phone, utilizando o framework Monogame e Mono em conjunto com as IDEs Visual Studio e Xamarin Studio.",
+      "start_time": "1050",
+      "end_time": "1120",
+      "type": "mobile_game",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Diego Pinheiro",
+          "profile_url": "http://conf2015.tasafo.org/img/people/diego-pinheiro.jpg",
+          "job": "Desenvolvedor de Games, Sistemas Desktop e Mobile, Sinextra Game Studio",
+          "work_at": "Sinextra Studio",
+          "bio": "Sócio Fundador da Sinextra Game Studio, Engenheiro da Computação e Mestre em Computação Aplicada.",
+          "social_networks": [
+            {
+              "url": "http://br.linkedin.com/in/diegocpinheiro",
+              "type": "linkedin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Introdução ao Material Design",
+      "description": "O que é Material Design? Conheça um pouco da história das interfaces gráficas e como a Google evolui seu conceito de UX para padronizar o design em qualquer dispositivo.",
+      "start_time": "1410",
+      "end_time": "1440",
+      "type": "mobile_game",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Milton Alcântara",
+          "profile_url": "http://conf2015.tasafo.org/img/people/milton-alcantara.jpg",
+          "job": "Designer Mobile e Desenvolvedor Android, BBTS",
+          "work_at": "BBTS",
+          "bio": "Designer e Desenvolvedor Android na BBTS, além de trabalhar em outras startups. Publicitário e estou terminando o curso de Ciência de Computação.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/miltonalcantara",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/miltonalcantara",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Acessibilidade em Android: Desvendando a TalkBack API",
+      "description": "Veremos como a API TalkBack pode ajudar as pessoas com deficiência a utilizar o smartphone.",
+      "start_time": "1440",
+      "end_time": "1510",
+      "type": "mobile_game",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Larissa Guimarães",
+          "profile_url": "http://conf2015.tasafo.org/img/people/larissa-guimaraes.png",
+          "job": "Desenvolvedora Android, BBTS",
+          "work_at": "BBTS",
+          "bio": "Sou desenvolvedora Android e trabalho no Banco do Brasil Tecnologia e Serviços.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/pub/larissa-guimar%C3%A3es/2b/318/661",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/LaraSGuimaraes",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/LarissaSI09",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Desenvolvimento de Aplicativo Mobile Multiplataforma com Intel XDK",
+      "description": "O objetivo da apresentação é mostrar como desenvolver de forma fácil e rápida aplicativos móveis híbridos com a ferramenta Intel XDK. Abordarei sobre aplicativos híbridos, framewroks de desenvolvimento mobile, sobre a ferramenta e suas funcionalidades, além da demonstração de um aplicativo.",
+      "start_time": "1510",
+      "end_time": "1540",
+      "type": "mobile_game",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Evandro Paes",
+          "profile_url": "http://conf2015.tasafo.org/img/people/evandro-paes.jpg",
+          "job": "Gestor e Consultor de Tecnologia da Informação, PRODEPA",
+          "work_at": "PRODEPA",
+          "bio": "Mais de 10 anos de experiência em desenvolvimento de sistemas, levantamento de requisitos e gerenciamento de projetos. É graduado em Tecnologia em Processamento de Dados, com Especialização em Desenvolvimento de Aplicativos para Internet e Gerência de Projetos de Software, possui certificação CSM, ITIL, COBIT, PRINCE2 e C1-MPS.BR. Atualmente é responsável pelo setor de desenvolvimento de sistemas da Empresa de Tecnologia da Informação e Comunicação do Estado do Pará - PRODEPA e aplica as melhores práticas do mercado para acompanhar a evolução dos projetos sob sua responsabilidade. Atua fortemente nas comunidades Tá safo!, CGPPará e GUMA-PA ajudando na organização de eventos e palestras.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/evandrompaes/pt",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/evandro_paes",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Produtividade Maxima com Android Libs",
+      "description": "Algumas tarefas em Android não são tão simples de serem implementadas, possuem um certo nível de complexidade e trabalho. Nesta palestra irei mostrar de forma sucinta como configurar e utilizar as bibliotecas mais produtivas utilizadas em Android. Irei falar sobre os guide lines e a importância de sua utilização.",
+      "start_time": "1710",
+      "end_time": "1740",
+      "type": "mobile_game",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Bryan Ollivie",
+          "profile_url": "http://conf2015.tasafo.org/img/people/bryan-ollivie.jpg",
+          "job": "Analista Mobile, BBTS",
+          "work_at": "BBTS",
+          "bio": "Possui formação em Ciência da Computação pelo CESUPA, atuou por 3 anos no desenvolvimento de web-apps em PHP, Grails e Java. É sócio-fundador da startup 3/4 mobile direcionada para aplicativos móveis em Android e iOS. Atuou em equipes agilistas em projetos desafiadores. Atualmente é analista da BB Tecnologia, no novo polo de aplicativos mobile da empresa no norte.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/pub/bryan-ollivie/51/a1/920",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/bryanollivie",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Boas práticas na implementação de um jogo: Game programming patterns",
+      "description": "Programar um jogo é um grande desafio, o qual envolve o tratamento de diversos aspectos de sua concepção e criação, desde um bom controle de estados de um jogador, registro de ações de inputs e configuração de diferentes controles a serem suportados, tratamento adequado de um 'game loop', inteligência artificial de inimigos e etc. Por meio desta palestra espero compartilhar meus conhecimentos sobre esses problemas recorrentes na programação e falar sobre algumas boas formas de os resolver utilizando design patterns.",
+      "start_time": "1740",
+      "end_time": "1810",
+      "type": "mobile_game",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Lucas Mousinho",
+          "profile_url": "http://conf2015.tasafo.org/img/people/lucas-mousinho.jpg",
+          "job": "Sócio fundador / Engenheiro de software, Sinextra Game Studio / Jambu Tec",
+          "work_at": "BBTS",
+          "bio": "Formado em Engenharia da Computação pela UFPA, trabalha como analista de sistemas na empresa Jambu Tecnologia e é sócio-fundador na Sinextra Game Studio. Ministra palestras, oficinas e cursos na área de desenvolvimento de jogos e já participou do desenvolvimento de jogos para o mercado empresarial e de entretenimento em plataformas mobile, web, desktop e vídeo-games.",
+          "social_networks": [
+            {
+              "url": "https://twitter.com/lucmousinho",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Criando funcionalidades que realmente importam",
+      "description": "Não existe benefício em ter um produto complicado. Por isso é necessário ter princípios antes de sair construindo funcionalidades. Afinal, ninguém quer ter um software Frankenstein.\na) Como dar atenção para as funcionalidades que realmente importam? Como criar algo que as pessoas vão usar todas as horas?\nb) Você tem criado funcionalidades que apenas algumas pessoas vão usar em momentos bem específicos?\nc) O que você tem feito com funcionalidades “elefantes brancos”? Aquelas que não são ou nunca foram usadas.\nd) Quanto você desperdiça ao dar manutenção para funcionalidades pouco utilizadas?\ne) Você tem customizado funcionalidades para poucas pessoas usarem toda a hora? Criar isso tem tomado muito tempo da sua equipe?",
+      "start_time": "0950",
+      "end_time": "1020",
+      "type": "innovation_enterpreneurship_community",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Marcell Almeida",
+          "profile_url": "http://conf2015.tasafo.org/img/people/marcell-almeida.jpg",
+          "job": "Co-Fundador & Gerente de Produto, Grana",
+          "work_at": "Grana",
+          "bio": "Trabalhou mais de um ano no Easy Taxi como Gerente de Produto atuando na área Mobile e na parte B2B (Easy Taxi Empresas). Atualmente está dedicado exclusivamente ao Grana (www.grana.me), startup que é co-fundador.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/almeidamarcell",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/almeidamarcell",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Testando canais de aquisição de clientes",
+      "description": "Uma Startup é um emprendimento pensado para crescer rápido. Portanto, a busca pelo crescimento é algo que define as Startup's. Tração é a evidência quantitativa da demanda do mercado, indicando para as Startup's sua taxa de crescimento. Nessa palestra apresentaremos o método descrito no livro 'Traction - A Startup Guide to Getting Customers' de Justin Mares e Gabriel Weinberg, que traz uma abordagem nova para aquisição de clientes baseada em entrevistas com empreendedores de sucesso do Vale do Silício. Apresentaremos os canais de aquisição de clientes mais eficazes segundo o estudo, o método e mostraremos alguns exemplos de aplicação do mesmo.",
+      "start_time": "1020",
+      "end_time": "1050",
+      "type": "innovation_enterpreneurship_community",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Eduardo Guerra",
+          "profile_url": "http://conf2015.tasafo.org/img/people/eduardo-guerra.png",
+          "job": "Empreendedor, Auditracks",
+          "work_at": "Auditracks",
+          "bio": "É empreendedor persistente há 10 anos e engenheiro de software com 11 anos de experiência. Tem formação na área de Ciência da Computação com mestrado na USP. Como empreendedor fundou duas startups, passou por incubação, aceleração, desenvolveu produtos e pivotou várias vezes. Desde 2014 toca a UserAsk, uma solução inovadora de colaboração em vídeo para a área de educação que ajuda no engajamento e retenção dos alunos nos ambientes de educação à distância, projeto apoiado pelo Startup Brasil e acelerado na Pipa. Atualmente fundou a AudiTracks, plataforma de auditagem eletrônica de propagandas de rádio. Ajudou a organizar o Startup Weekend Belém em 2014, quando foi abduzido pela paixão de colaborar no desenvolvimento de comunidades de startups, que resultou na fundação da comunidade Açaí Valley.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/eduardolealguerra",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/lealguerra",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Impacto das inovações tecnológicas nas pequenas e médias empresas",
+      "description": "Apresentar o cenário do mercado atual, onde várias empresas de grande porte se reinventam e aplicam conhecimentos técnicos de gestão, por outro lado, o pequeno e médio empresário nem sempre está preparado para o mercado. Neste sentido a inovação e o agente de inovação surge não só como uma necessidade, mas também um desafio. Todos os aspectos citados anteriormente deve ser estudados e o profissional de TI deve agir como agente de inovação, a pergunta é, estamos preparados?",
+      "start_time": "1050",
+      "end_time": "1120",
+      "type": "innovation_enterpreneurship_community",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Thiago Vulcão",
+          "profile_url": "http://conf2015.tasafo.org/img/people/thiago-vulcao.png",
+          "job": "Gerente de Projetos de TI e Inovação, EBI Informática",
+          "work_at": "Auditracks",
+          "bio": "Atuo como Gerente de Projetos de Tecnologia da Informação e Inovação na empresa EBI Informática, e através do SEBRAE com o projeto SERBRAETec atendemos um volume enorme de pequenas empresas. Fui estudante de Bacharelado em Ciência da Computação, entretanto no ano de 2010 fugi da graduação, hoje com dez anos de experiência foquei em busca de algo maior. Tenho formação de web designer, e posteriormente me especializei em desenvolvimento, análise de sistemas de grande porte e integrações. Hoje atuo como figura de liderança de ambiente criativo para desenvolvimento de soluções inovadoras.",
+          "social_networks": [
+            {
+              "url": "http://br.linkedin.com/in/thiagovulcao",
+              "type": "linkedin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Startup Developer Mindset",
+      "description": "Nunca foi tão simples empreender e é nesse contexto que as startups se destacam como uma alternativa viável e acessível. O desenvolvedor de software faz parte do núcleo deste ecossistema. Mas o cenário de uma startup é diferente do padrão, algumas habilidades e experiências de vida são extremamente úteis pra que a startup evolua, bem como o desenvolvedor seja produtivo e consiga seus objetivos.\nEssa palestra apresenta alguns valores e habilidades necessárias para um desenvolvedor e que podem fazer a diferença no desenvolvimento de uma startups. Levanta pontos de qual o real papel do mesmo nesse ecossitema e de valores que adicionam valor ao mindset do mesmo.",
+      "start_time": "1410",
+      "end_time": "1440",
+      "type": "innovation_enterpreneurship_community",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Marcelio Leal",
+          "profile_url": "http://conf2015.tasafo.org/img/people/marcelio-leal.jpg",
+          "job": "CTO, Tripda",
+          "work_at": "Tripda",
+          "bio": "É M.S. em Ciência da Computação pela UFPA e CTO na Tripda (Rocket Internet). Desenvolvedor com mais de 15 anos de experiência, principalmente focado em tecnologias web e metodologias ágeis. Fez parte de grandes empresas como o SERPRO e a Cobra Tecnologia. Há 6 anos totalmente focado no mundo das startups, passando por Dafiti, Predicta/SiteApps e Oppa. Também é um dos organizadores do Silicon DrinkAbout Sampa. Além disso, ele é fanático por comida paraense, esportes de aventura e pelo Paysandú.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/marcelioleal",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/marcelioleal",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dafiti App Android: Um app robusto mas sem sair da moda",
+      "description": "Em 2013, a Dafiti já era bem conhecida do público que não resistia à uma promoção de sapato. Nesse período, já não podíamos mais esperar pelo cliente acessar ao nosso site fisgado por um banner, newsletter e etc. Com um aplicativo Android resolvemos levar o maior e-commerce de moda, para uma base gigante de usuários que tem o robô como sistema operacional de smartphones, e o melhor, em qualquer hora e lugar onde o cliente esteja. No mobile conseguimos aproximar ainda mais essa relação com o cliente.\nE o que era apenas uma nova forma de vender, se tornou num dos principais canais de venda. Como toda caminhada nos leva a percalços, passamos por muitos erros e acertos que pensamos em dividir com a comunidade, para nos ajudar a debater o desenvolvimento de um bom aplicativo focado em m-commerce.\nVamos conversar sobre nosso app Android, como fazemos dele um bom produto não somente para vender mas também para desenvolver.",
+      "start_time": "1440",
+      "end_time": "1510",
+      "type": "innovation_enterpreneurship_community",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Eduardo Lieuthie",
+          "profile_url": "http://conf2015.tasafo.org/img/people/eduardo-lieuthier.jpg",
+          "job": "Programador Android, Dafiti",
+          "work_at": "Dafiti",
+          "bio": "É M.S. em Ciência da Computação pela UFPA e CTO na Tripda (Rocket Internet). Desenvolvedor com mais de 15 anos de experiência, principalmente focado em tecnologias web e metodologias ágeis. Fez parte de grandes empresas como o SERPRO e a Cobra Tecnologia. Há 6 anos totalmente focado no mundo das startups, passando por Dafiti, Predicta/SiteApps e Oppa. Também é um dos organizadores do Silicon DrinkAbout Sampa. Além disso, ele é fanático por comida paraense, esportes de aventura e pelo Paysandú.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/eduardolieuthier",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/edulieuthier",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Como desenhar uma proposta de valor que vai encantar o seu cliente!",
+      "description": "Todo negócio surge para atender um cliente específico, mas que tarefa esse cliente tem e quer realizar? O que ele quer resolver? Como ele é atendido hoje no mercado? Quais são as brechas que os possíveis concorrentes lhe dão? Quais são os problemas que esse cliente tem?\nO objetivo dessa palestra é apresentar o Canvas da Proposta de Valor, para que os empreendedores criem soluções que atendam e surpreendam os seus clientes com algo que ele realmente deseja.",
+      "start_time": "1510",
+      "end_time": "1540",
+      "type": "innovation_enterpreneurship_community",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Paul Marcel",
+          "profile_url": "http://conf2015.tasafo.org/img/people/paul-marcel.jpg",
+          "job": "Sócio e Consultor, VINDI Ideias e Inovação",
+          "work_at": "VINDI Ideias e Inovação",
+          "bio": "Sou sócio da VINDI Ideias e Inovação (vindi2i.com.br). Sou engenheiro (ambiental e de Segurança no Trabalho) e MBA em Gestão Empresarial. Especialista em Agenciamento da Inovação para Pequena Empresa. Minha empresa atua desenvolvendo consultoria, assessoria e educação nas áreas de empreendedorismo, marketing , design e inovação para empreendedores nascentes, iniciantes e maduros em todo o Estado do Pará. Já atendemos mais de 300 clientes em pouco mais de 3 anos e meio de empresa. Somos a primeira Agência de Empreendedorismo e Marketing da Amazônia.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/pub/paul-marcel-oliveira-pereira/2a/839/a27",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/vindi2i",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Como usar o Learning Canvas para descobrir Features para o Product Backlog",
+      "description": "O Learning Canvas é uma ferramenta para a promoção da aprendizagem emergente. Foi criada com o propósito de organizar ideias e experiências sobre um tema problematizado durante uma discussão facilitada. Irei demonstrar como podemos aplica-lo para descobrir features para o backlog do produto com base na problematização do cliente.",
+      "start_time": "1710",
+      "end_time": "1740",
+      "type": "innovation_enterpreneurship_community",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Fábio Aguiar",
+          "profile_url": "http://conf2015.tasafo.org/img/people/fabio-aguiar.jpg",
+          "job": "Agile Coach, Delivery Product Manager, Adaptworks e Pródiga Sistemas",
+          "work_at": "Adaptworks e Pródiga Sistemas",
+          "bio": "É Agile Coach & Associated Trainer na AdaptWorks. Possui mais de uma década e meia de experiência profissional em desenvolvimento de software, tendo focado nos últimos anos em gestão e desenvolvimento ágil com Scrum, XP, Lean e UX e no desenvolvimento holístico de cada membro do time, bem como energizando e impulsionando organizações a transição e adoção Ágil.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/fabiogr",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/fabyogr",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Desbravando a Amazon AWS",
+      "description": "Mostrarei como programadores podem usar os produtos EC2, RDS, e S3 da Amazon AWS.",
+      "start_time": "1740",
+      "end_time": "1810",
+      "type": "innovation_enterpreneurship_community",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Márcio Braga",
+          "profile_url": "http://conf2015.tasafo.org/img/people/marcio-braga.jpg",
+          "job": "Sócio / Fundador, Muiraquitã Sistemas",
+          "work_at": "Muiraquitã Sistemas",
+          "bio": "Sou programador de sistemas com mais de 10 anos de experiência e com forte conhecimento de infraestrutura. Atualmente trabalho com desenvolvimento de sistemas usando Java, Rails, Python, PHP e NodeJS.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/marciobrst",
+              "type": "linkedin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Você devia conhecer o poder das métricas",
+      "description": "Então você acredita que a Agilidade é HDD (Heart Driven Development)? Que deve apenas seguir seu coração e estará tudo certo? Que não há necessidade de medições? Venha ouvir um pouco sobre métricas e indicadores ágeis. Meu intuito não é encontrar culpados no processo, e sim medir a saúde e ajudá-lo e encontrar melhorias e ganhos de produtividade.",
+      "start_time": "0950",
+      "end_time": "1020",
+      "type": "management_business_agile",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Breno Campos",
+          "profile_url": "http://conf2015.tasafo.org/img/people/breno-campos.jpg",
+          "job": "Agile Project Manager, Plataformatec",
+          "work_at": "Plataformatec",
+          "bio": "É Gerente de Projetos Ágil na Plataformatec e membro da Comunidade Tá Safo, já desempenhou o papel de Analista de Sistemas, Consultor em Agilidade e Consultor em Gestão de Projetos. Lida com metodologias ágeis a cerca de 7 anos, principalmente com SCRUM e KANBAN. Tem se dedicado à participação de eventos sobre Metodologias Ágeis com o intuito de disseminar a cultura ágil pelo Brasil, atuou como voluntário e organizador em eventos como Agile Brazil, Agile Trends e Tá Safo Conf.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/brenobcampos",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/brenobcampos",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Expandindo Ágil: do Marketing ao Departamento Pessoal",
+      "description": "O movimento de mudança e melhoria do processo de trabalho que já havia transformado o Desenvolvimento de Software na DígithoBrasil se espalhou por todos os setores. E em cada lugar, se fez necessária uma adaptação cuidadosa dos métodos ágeis, com cenários bastante distintos, e que trouxe resultados rápidos e integralmente compartilhados.",
+      "start_time": "1020",
+      "end_time": "1050",
+      "type": "management_business_agile",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Samuel Cavalcante",
+          "profile_url": "http://conf2015.tasafo.org/img/people/samuel-cavalcante.jpg",
+          "job": "Scrum Master, DígithoBrasil",
+          "work_at": "DigithoBrasil",
+          "bio": "Engenheiro de Computação residente em Campo Grande MS, pós graduado em Engenharia de Sistemas, atuando como Scrum Master na empresa de desenvolvimento de softwares DigithoBrasil e como docente no ensino superior na Anhanguera/UNIDERP e Anhanguera II, fomentador de comunidades no MS, experiência em educação. Estudante e praticante das melhores práticas de Gestão de TIC, Engenharias de Software e Agile.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/samuelmbc",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/samuelmbc",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/samuelmbc",
+              "type": "github"
+            }
+          ]
+        },
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Jorge Almoas",
+          "profile_url": "http://conf2015.tasafo.org/img/people/jorge-almoas.jpg",
+          "job": "Marketing, DígithoBrasil",
+          "work_at": "DigithoBrasil",
+          "bio": "Jornalista formado há 7 anos, com pós-graduação em Gestão Integrada de Comunicação e Marketing, atualmente cursa Administração na UFMS (Universidade Federal de Mato Grosso do Sul). Atua no departamento de Marketing da DígithoBrasil há 7 anos nas áreas de Comunicação Interna, Endomarketing, Mídias Sociais, Planejamento nas áreas Institucional, Comercial e de Patrocínios. Vivencia o ágil há 3 anos e espera levá-lo a todas as áreas de conhecimento possíveis.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/jorgealmoas",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/jorgealmoas",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Agilidade além do mundo do software",
+      "description": "Há mais de 1 anos tenho respondido a perguntas como: 'Esse negócio de Ágil não é só para software? Como vamos envolver toda a empresa?'\n\nLogística, Compras, Comunicação Social, Jurídico e Projetos, como tantas áreas/profissionais que NÃO DESENVOLVEM software podem entender o que está acontecendo? Como podem incorporar práticas ágeis em seu dia a dia e adotar na sua cultura?",
+      "start_time": "1050",
+      "end_time": "1120",
+      "type": "management_business_agile",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "João Novais",
+          "profile_url": "http://conf2015.tasafo.org/img/people/joao-novais.jpg",
+          "job": "Analista de Negócio, SERPRO",
+          "work_at": "SERPRO",
+          "bio": "Analista de Negócios no SERPRO onde atua também como Agile Coach por gostar de desafiar a capacidade de realização das pessoas e o 'status quo' dos processos. Com mais de 10 anos de experiência em TI, atuou em vários cargos da Engenharia de Software e de Infraestrutura em segmentos como: Segurança Pública, Fazenda Estadual e Imprensa Nacional. Atualmente é também organizador de eventos da comunidade ágil e livre; fundador da iniciativa agileminds.me que leva a agilidade para além do mundo do software e um apaixonado pelo escotismo.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/joaopaulonovais",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/n0va1s",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/n0va1s",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Adoção de Práticas Ágeis na PROEX e PROEG: Reflexões e Aprendizados",
+      "description": "Apresentar relato de experiência da adoção de métodos Ágeis em duas Pró-Reitorias da UFPA (PROEG e PROEX). Enfatizando as lições aprendidas, mudanças na cultura organizacional e os desafios encontrados para evolução do processo de acordo com as necessidades da Universidade.",
+      "start_time": "1410",
+      "end_time": "1440",
+      "type": "management_business_agile",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Diego Lisbôa",
+          "profile_url": "http://conf2015.tasafo.org/img/people/diego-lisboa.jpg",
+          "job": "Assessor Técnico de Tecnologia da Informação, Pró-Reitoria de Ensino e Graduação da UFPA",
+          "work_at": "UFPA",
+          "bio": "Desenvolvedor e Líder de equipe da Assessoria de Informação e Tecnologia da Pró-Reitoria de Ensino e Graduação da UFPA (AIT-PROEG). Membro ativo da Comunidade Tá Safo, colaborador da Startup CoyoTI e atuante como voluntário do Agile Brazil desde 2012 e Agile Trends desde a primeira edição do evento (2013). Membro do Comitê Organizador do Agile Trends.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/pub/diego-lisboa/47/88a/617",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/diego__lisboa",
+              "type": "twitter"
+            }
+          ]
+        },
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Lourdilene Souza",
+          "profile_url": "http://conf2015.tasafo.org/img/people/lourdilene-souza.png",
+          "job": "Analista de Sistemas, Pró Reitoria de Extensão da UFPA",
+          "work_at": "UFPA",
+          "bio": "Analista de Sistemas na Pró Reitoria de Extensão da UFPA e Consultora de TI no Instituto Histórico e Geográfico do Pará. Graduada em Sistemas de Informação pela UFPA. Atualmente cursa a Especialização em Arquitetura de Software ofertado pelo Laboratório de Engenharia de Software da UFPA (LABES - UFPA). Também participou de projetos do LABES de construção de sistemas em parceria com outras entidades, como PM-PA e SETUR.",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/pub/lourdilene-souza/8b/2a5/77a",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/lourdilenesouza",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/Lourdilene",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Software como investimento",
+      "description": "Software é um investimento. Desenvolvimento de software é uma atividade que consome esforço, tempo e dinheiro. Investe-se em software com a expectativa de que a sua utilização no dia a dia da empresa gere retornos para os negócios.\nO método ágil XP e o Scrum reconhece o conceito de ROI, essa premissa e suas práticas são organizadas para entregar valor mais cedo para os clientes.",
+      "start_time": "1440",
+      "end_time": "1510",
+      "type": "management_business_agile",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Rildo Santos",
+          "profile_url": "http://conf2015.tasafo.org/img/people/rildo-santos.jpg",
+          "job": "Consultor de Negócio, eTecnologia",
+          "work_at": "eTecnologia",
+          "bio": "Auto na empresa eTecnologia como Consultor de Negócio, atuando em duas linhas de negócio: - Consultoria de Tecnologia e Negócio - Compartilhamento de conhecimento (programa social que visa ajudar profissionais, professores e estudantes com compartilhamento de conhecimento através de publicação de conteúdo, cursos gratuitos e a comunidade eTecnologia)",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/rildofsantos/pt",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/rildosan",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "One Direction - A incrível relação entre times e entregas em ambientes ágeis",
+      "description": "Entusiasmada com os resultados obtidos nas entregas, Isabela Gayno, acredita que os membros do time ficam orgulhosos quando se sentem parte do BEM MAIOR. One direction é um workshop capaz de demonstrar como o alinhamento do time é capaz de tornar possível a execução de planos previsíveis e com ótimos resultados.\n\nIgnorar este workshop dinâmico e alegre é ignorar o incrível poder da linguagem, um dos maiores segredos para encontrar summum bonum individual (BEM MAIOR).\n\nDescubra como OneDirection pode ser perfeito no seu dia a dia.",
+      "start_time": "1510",
+      "end_time": "1540",
+      "type": "management_business_agile",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Isabela Gayno",
+          "profile_url": "http://conf2015.tasafo.org/img/people/isabela-gayno.jpg",
+          "job": "Agile Coach, IFConsutoria",
+          "work_at": "IFConsutoria",
+          "bio": "Pesquisadora sobre comportamento humano, neurociências, inteligência múltipla, inteligencia emocional, psicologia e tecnologia. MBA em Marketing Digital e Mídias Sociais. Pós Graduada em Engenharia de Software. Graduada em Administração de Empresas. Master e Practitioner em PNL. Com mais de 11 anos de carreira, atuando em facilitar o entendimento e gerenciar expectativa do cliente e times. Atua como palestrante sobre gestão ágeis de projetos e temas sobre automotivação e engajamento de times, dedicando-se àquilo que chama de efeito multiplicador, como escritora, autora e colunista no AgileMomentum, Ti Especialista e blogueira no Administradores. 'Conhecimento bom é conhecimento compartilhado'",
+          "social_networks": [
+            {
+              "url": "https://br.linkedin.com/in/isabelagayno",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/Isagayno",
+              "type": "twitter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Manter-se ágil em meio à cultura tradicionalista",
+      "description": "Nessa apresentação será descrita a experiência de introduzir métodos ágeis na TI de uma empresa de ramo tradicional em que a cultura é fortemente hierárquica e que compra as melhores práticas.",
+      "start_time": "1710",
+      "end_time": "1740",
+      "type": "management_business_agile",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Ademir Silva",
+          "profile_url": "http://conf2015.tasafo.org/img/people/ademir-silva.jpg",
+          "job": "Analista de Sistemas Sênior, Siderúrgica Norte Brasil",
+          "work_at": "Siderúrgica Norte Brasil",
+          "bio": "Desenvolvedor de software, Professor, Ciclista, Apaixonado por tecnologia. Encontrou nos métodos ágeis sentido para desenvolver produtos e pessoas de forma sustentável. Atualmente Analista Sênior, atuando em projetos de software como Scrum Master e Líder técnico, na Siderúrgica Norte Brasil. Mestrando em Engenharia de produção pela UFPE. Ciência da Computação pela UFT. CSM. CSPO.",
+          "social_networks": [
+            {
+              "url": "http://br.linkedin.com/in/ademirjsilva",
+              "type": "linkedin"
+            },
+            {
+              "url": "https://twitter.com/ademirjs",
+              "type": "twitter"
+            },
+            {
+              "url": "http://github.com/ademirto",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kanban - Muito além de um simples quadro na parede!",
+      "description": "Nessa apresentação são abordados os conceitos de Fluxo, Pensamento Sistêmico, Limites, entre outros, que são importantes para o entendimento da cultura e do que há por trás do Kanban. O principal objetivo dessa apresentação é não só uma visão geral mas ajudar no ponta pé inicial para a adoção do Kanban.",
+      "start_time": "1740",
+      "end_time": "1810",
+      "type": "management_business_agile",
+      "speakers":[
+        {
+          "id": "c67a1ba2f4d615e7733c7eb195fcb4d0",
+          "name": "Paulo Igor",
+          "profile_url": "http://conf2015.tasafo.org/img/people/paulo-igor.jpg",
+          "job": "Engenheiro de Software, Pródiga Sistemas / HUB 728",
+          "work_at": "Pródiga Sistemas / HUB 728",
+          "bio": "Mestre em Ciência da Computação e Bacharel em Sistemas de Informação. Trabalha com desenvolvimento de software há mais de 10 anos, onde atuou em projetos para o setor bancário, P&D, Departamento de Trânsito, Companhia de Saneamento Básico e desenvolvendo sistemas e portais em projetos nacionais e internacionais. CSM pela Scrum Alliance, ministra aulas na pós-graduação em disciplinas ligadas a Engenharia de Software e Metodologias Ágeis, Instrutor Associado da Adaptworks e atualmente trabalha em projetos diversos em sua empresa de desenvolvimento de software e em seu espaço de coworking em Belém, o HUB 728. Atua fortemente junto as comunidades de tecnologia da região norte organizando eventos, desenvolvendo projetos abertos, palestras e workshops.",
+          "social_networks": [
+            {
+              "url": "https://www.linkedin.com/in/pigodinho/pt",
+              "type": "linkedin"
+            },
+            {
+              "url": "http://twitter.com/pigodinho",
+              "type": "twitter"
+            },
+            {
+              "url": "https://github.com/pigor",
+              "type": "github"
+            }
+          ]
+        }
+      ]
+    }
+
+  ],
+  "location": {
+    "name": "Hangar Centro de Convenções e Feiras da Amazônia",
+    "address":"Av. Dr. Freitas, s/n - Marco,Belém - PA,66613-902",
+    "latitude": -1.4217252,
+    "longitude": -48.458966
+  },
+  "about": "Descrição sobre o Tá Safo Conf 2015."
+}

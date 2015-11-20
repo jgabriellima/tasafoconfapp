@@ -1,0 +1,6 @@
+/* Empty. Add your own CSS if you like */
+.bar.bar-positive {
+    color: #FFF;
+    background-color: #444 !important;
+    box-shadow: none !important;
+}

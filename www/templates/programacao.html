@@ -1,0 +1,168 @@
+<style>
+ion-tabs.tabs-color-active-positive .tab-item.tab-item-active,
+ion-tabs.tabs-color-active-positive .tab-item.active,
+ion-tabs.tabs-color-active-positive .tab-item.activated {
+    color: #387EF5;
+    border-bottom: 1px solid !important;
+}
+
+.tabs-top > .tabs,
+.tabs.tabs-top {
+    padding-top: 8px;
+}
+
+.top {
+    background-color: #006400;
+    border-top: 2px solid #FFF;
+    height: 4px;
+}
+
+.top-black {
+    background-color: #6C5C5C !important;
+}
+
+.top-blue {
+    background-color: darkblue !important;
+}
+
+.card-text {
+    font-size: 0.8em;
+    line-height: 15px;
+    text-align: left;
+}
+
+.col {
+    padding: 0;
+}
+
+.tab-item .icon {
+    display: block;
+    margin: 0px auto;
+    height: 32px;
+    font-size: 26px;
+}
+
+.item-avatar .item-content .item-image,
+.item-avatar .item-content > img:first-child,
+.item-avatar .item-image,
+.item-avatar-left .item-content .item-image,
+.item-avatar-left .item-content > img:first-child,
+.item-avatar-left .item-image,
+.item-avatar-left > img:first-child,
+.item-avatar > img:first-child {
+    left: -7px!important;
+}
+</style>
+<ion-view view-title="Programação" ng-init="init()">
+    <ion-content class="no-header">
+        <ion-tabs class="tabs-icon-top tabs-top tabs-dark">
+            <!-- Dashboard Tab -->
+            <ion-tab title="" icon-off="ion-ios-barcode-outline" icon-on="ion-ios-barcode-outline">
+                <ion-nav-view name="dev" style="padding-top:100px;">
+                    <!-- <ion-content> -->
+                    <div class="card" ng-repeat="devop in devops">
+                        <div class="top">
+                        </div>
+                        <div class="item item-text-wrap">
+                            <div class="row">
+                                <div class="col">
+                                    <p>{{devop.start_time|formataHora}}</p>
+                                    <p>{{devop.end_time|formataHora}}</p>
+                                </div>
+                                <div class="col col-75">
+                                    <h3>{{devop.title}}</h3>
+                                    <div class="item item-avatar" ng-show="devop.speakers[0].profile_url">
+                                        <img ng-src="{{devop.speakers[0].profile_url}}" ng-show="devop.speakers[0].profile_url">
+                                        <h2 style="margin: 0px -45px 2px;">{{devop.speakers[0].name}}</h2>
+                                        <p style="margin: 0px -45px 2px;font-size: 80%;">{{devop.speakers[0].work_at}}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- </ion-content> -->
+                </ion-nav-view>
+            </ion-tab>
+            <!-- Chats Tab -->
+            <ion-tab title="" icon-off="ion-android-phone-portrait" icon-on="ion-android-phone-portrait">
+                <ion-nav-view name="game"style="padding-top:100px;">
+                    <!-- <ion-content> -->
+                    <div class="card" ng-repeat="devop in devops">
+                        <div class="top">
+                        </div>
+                        <div class="item item-text-wrap">
+                            <div class="row">
+                                <div class="col">
+                                    <p>{{devop.start_time|formataHora}}</p>
+                                    <p>{{devop.end_time|formataHora}}</p>
+                                </div>
+                                <div class="col col-75">
+                                    <h3>{{devop.title}}</h3>
+                                    <div class="item item-avatar" ng-show="devop.speakers[0].profile_url">
+                                        <img ng-src="{{devop.speakers[0].profile_url}}" ng-show="devop.speakers[0].profile_url">
+                                        <h2 style="margin: 0px -45px 2px;">{{devop.speakers[0].name}}</h2>
+                                        <p style="margin: 0px -45px 2px;font-size: 80%;">{{devop.speakers[0].work_at}}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- </ion-content> -->
+                </ion-nav-view>
+            </ion-tab>
+            <!-- Account Tab -->
+            <ion-tab title="" icon-off="ion-lightbulb" icon-on="ion-lightbulb">
+                <ion-nav-view name="inov" style="padding-top:100px;">
+                    <!-- <ion-content> -->
+                    <div class="card" ng-repeat="devop in devops">
+                        <div class="top">
+                        </div>
+                        <div class="item item-text-wrap">
+                            <div class="row">
+                                <div class="col">
+                                    <p>{{devop.start_time|formataHora}}</p>
+                                    <p>{{devop.end_time|formataHora}}</p>
+                                </div>
+                                <div class="col col-75">
+                                    <h3>{{devop.title}}</h3>
+                                    <div class="item item-avatar" ng-show="devop.speakers[0].profile_url">
+                                        <img ng-src="{{devop.speakers[0].profile_url}}" ng-show="devop.speakers[0].profile_url">
+                                        <h2 style="margin: 0px -45px 2px;">{{devop.speakers[0].name}}</h2>
+                                        <p style="margin: 0px -45px 2px;font-size: 80%;">{{devop.speakers[0].work_at}}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- </ion-content> -->
+                </ion-nav-view>
+            </ion-tab>
+            <ion-tab title="" icon-off="ion-android-globe" icon-on="ion-android-globe">
+                <ion-nav-view name="gestao" style="padding-top:100px;">
+                    <!-- <ion-content> -->
+                    <div class="card" ng-repeat="devop in devops">
+                        <div class="top">
+                        </div>
+                        <div class="item item-text-wrap">
+                            <div class="row">
+                                <div class="col">
+                                    <p>{{devop.start_time|formataHora}}</p>
+                                    <p>{{devop.end_time|formataHora}}</p>
+                                </div>
+                                <div class="col col-75">
+                                    <h3>{{devop.title}}</h3>
+                                    <div class="item item-avatar" ng-show="devop.speakers[0].profile_url">
+                                        <img ng-src="{{devop.speakers[0].profile_url}}" ng-show="devop.speakers[0].profile_url">
+                                        <h2 style="margin: 0px -45px 2px;">{{devop.speakers[0].name}}</h2>
+                                        <p style="margin: 0px -45px 2px;font-size: 80%;">{{devop.speakers[0].work_at}}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- </ion-content> -->
+                </ion-nav-view>
+            </ion-tab>
+        </ion-tabs>
+    </ion-content>
+</ion-view>
